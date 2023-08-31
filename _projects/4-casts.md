@@ -54,13 +54,13 @@ You can throw in some horizontal rules too:
 
 Here's a really neat custom feature we added – galleries:
 
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/square-01.jpg">
-	<img src="/images/demo/portrait-02.jpg">
-	<img src="/images/demo/square-02.jpg">
-	<img src="/images/demo/square-03.jpg">
-	<img src="/images/demo/square-04.jpg">
-	<img src="/images/demo/landscape-05.jpg">
+<div class="gallery" data-columns="5">
+	<img src="/images/character_images/casts/fractalcast0.png">
+	<img src="/images/character_images/casts/fractalcast2.png">
+	<img src="/images/character_images/casts/fractalcast7.png">
+	<img src="/images/character_images/casts/fractalcast10.png">
+	<img src="/images/character_images/casts/fractalcast11.png">
+	<img src="/images/character_images/casts/fractalcast13_1.png">
 </div>
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
