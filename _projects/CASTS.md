@@ -5,10 +5,9 @@ date: 2017-08-1 00:00:00
 description: 
 featured_image: '/images/character_images/homura1_2.png'
 ---
+> Let me show you how beautiful a CAST can really be.
 
 ![](/images/character_images/casts/fractalcast21.png)
-
-> Let me show you how beautiful a hunk of metal can truly be.
 
 <div class="gallery" data-columns="5">
 	<img src="/images/character_images/casts/fractalcast0.png">
