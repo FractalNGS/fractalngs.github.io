@@ -1,9 +1,9 @@
 ---
 title: 'Demo Project'
 subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
+date: 2023-08-31 00:00:00
 description: 
-featured_image: '/images/demo/square-05.jpg'
+featured_image: '/images/character_images/fractal125.png'
 ---
 
 ![](/images/demo/landscape-01.jpg)
