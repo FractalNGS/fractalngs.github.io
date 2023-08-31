@@ -1,5 +1,5 @@
 ---
-title: 'Fractalus'
+title: 'Fractal'
 subtitle: 'The Main Girl'
 date: 2023-08-31 00:00:00
 description: 
