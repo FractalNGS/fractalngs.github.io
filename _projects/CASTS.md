@@ -6,8 +6,8 @@ description:
 featured_image: '/images/character_images/homura1_2.png'
 ---
 
-![](/images/demo/landscape-01.jpg)
-
+![](/images/character_images/casts/fractalcast21.png)
+<!-->
 ## Demo content
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
@@ -49,10 +49,14 @@ And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
 You can throw in some horizontal rules too:
 
 ---
-
+-->
+<!--
 ### Image galleries
 
 Here's a really neat custom feature we added – galleries:
+-->
+
+> Let me show you how beautiful a hunk of metal can truly be.
 
 <div class="gallery" data-columns="5">
 	<img src="/images/character_images/casts/fractalcast0.png">
@@ -63,6 +67,7 @@ Here's a really neat custom feature we added – galleries:
 	<img src="/images/character_images/casts/fractalcast13_1.png">
 </div>
 
+<!--
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
 
 ```html
@@ -108,4 +113,4 @@ We've packed this theme with powerful features to show off your work.
 
 Why not put them to use on your new portfolio?
 
-<!--- <a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> --->
+<a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> -->
