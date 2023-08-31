@@ -1,7 +1,7 @@
 ---
 title: 'CASTS'
 subtitle: 'The Supreme Beings'
-date: 2022-08-1 00:00:00
+date: 2017-08-1 00:00:00
 description: 
 featured_image: '/images/character_images/fractalcast11.png'
 ---
