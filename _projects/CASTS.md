@@ -7,7 +7,7 @@ featured_image: '/images/character_images/homura1_2.png'
 ---
 
 ![](/images/character_images/casts/fractalcast21.png)
-<!-->
+<!--
 ## Demo content
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
@@ -48,7 +48,7 @@ And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
 
 You can throw in some horizontal rules too:
 
----
+
 -->
 <!--
 ### Image galleries
