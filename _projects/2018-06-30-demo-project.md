@@ -1,6 +1,6 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Fractalus'
+subtitle: 'The Main Girl'
 date: 2023-08-31 00:00:00
 description: 
 featured_image: '/images/character_images/fractal125.png'

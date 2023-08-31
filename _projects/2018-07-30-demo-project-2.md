@@ -1,9 +1,9 @@
 ---
-title: 'Demo Project 2'
-subtitle: 'This is a demo 2'
-date: 2018-07-30 00:00:00
+title: 'Ginko'
+subtitle: 'The Nessa Look-alike'
+date: 2022-08-1 00:00:00
 description: 
-featured_image: '/images/demo/square-04.jpg'
+featured_image: '/images/character_images/ginko1.png'
 ---
 
 ![](/images/demo/landscape-01.jpg)
