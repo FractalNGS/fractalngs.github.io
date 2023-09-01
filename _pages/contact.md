@@ -1,5 +1,5 @@
 ---
-title: Creative Space
+title: 
 subtitle: 
 description: 
 featured_image: 

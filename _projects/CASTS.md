@@ -13,7 +13,6 @@ featured_image: '/images/character_images/homura/homura1_2.png'
 
 <div class="gallery" data-columns="4">
 	<img src="/images/character_images/casts/leonidascast5.png">
-	<img src="/images/character_images/casts/fractalus27.png">
 	<img src="/images/character_images/casts/fractalus25.png">
 	<img src="/images/character_images/casts/fractalcast23.png">
 	<img src="/images/character_images/casts/fractalcast11.png">
