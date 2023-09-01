@@ -3,7 +3,7 @@ title: 'Ginko'
 subtitle: 'The Nessa Look-alike'
 date: 2022-08-1 00:00:00
 description: 
-featured_image: '/images/character_images/ginko1.png'
+featured_image: '/images/character_images/ginko/ginko1.png'
 ---
 
 ![](/images/demo/landscape-01.jpg)

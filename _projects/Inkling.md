@@ -3,7 +3,7 @@ title: 'Inkling'
 subtitle: 'The Cute One'
 date: 2022-03-15 00:00:00
 description: 
-featured_image: '/images/character_images/inkling3_4.png'
+featured_image: '/images/character_images/inkling/inkling3_4.png'
 ---
 
 ![](/images/demo/landscape-01.jpg)

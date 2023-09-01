@@ -3,7 +3,7 @@ title: 'Fractal'
 subtitle: 'The Main Girl'
 date: 2023-08-31 00:00:00
 description: 
-featured_image: '/images/character_images/fractal125.png'
+featured_image: '/images/character_images/fractal/fractal125.png'
 ---
 
 ![](/images/demo/landscape-01.jpg)

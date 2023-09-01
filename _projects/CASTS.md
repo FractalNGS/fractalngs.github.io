@@ -3,7 +3,7 @@ title: 'CASTS'
 subtitle: 'The Supreme Beings'
 date: 2017-08-1 00:00:00
 description: 
-featured_image: '/images/character_images/casts/homura1_2.png'
+featured_image: '/images/character_images/homura/homura1_2.png'
 ---
 > Allow me to show you just how beautiful mecha can really be.
 
