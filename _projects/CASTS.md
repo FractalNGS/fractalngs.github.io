@@ -20,7 +20,7 @@ featured_image: '/images/character_images/homura/homura1_2.png'
 	<img src="/images/character_images/casts/marinacast3.png">
 	<img src="/images/character_images/casts/arkumacast3.png">
 	<img src="/images/character_images/casts/leonidascast4.png">
-	<img src="/images/character_images/homura/fracalcast19_1.png">
+	<img src="/images/character_images/homura/fractalcast19_1.png">
 	<img src="/images/character_images/homura/homura1_2.png">
 	<img src="/images/character_images/casts/mars18.png">
 	<img src="/images/character_images/casts/mars11.png">
