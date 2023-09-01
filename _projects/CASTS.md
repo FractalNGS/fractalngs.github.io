@@ -17,13 +17,13 @@ featured_image: '/images/character_images/casts/homura1_2.png'
 	<img src="/images/character_images/casts/fractalcast11.png">
 	<img src="/images/character_images/casts/arkumacast3.png">
 	<img src="/images/character_images/casts/leonidascast4.png">
-	<img src="/images/character_images/casts/fractalcast10.png">
-	<img src="/images/character_images/casts/leocast3.png">
-	<img src="/images/character_images/casts/marinacast7.png">
+	<img src="/images/character_images/casts/marinacast8.png">
 	<img src="/images/character_images/casts/marinacast3.png">
 	<img src="/images/character_images/casts/marinacast2.png">
 	<img src="/images/character_images/casts/mars18.png">
 	<img src="/images/character_images/casts/mars11.png">
+	<img src="/images/character_images/casts/fractalcast10.png">
+	<img src="/images/character_images/casts/leocast3.png">
 	<img src="/images/character_images/casts/fractalus24.png">
 	<img src="/images/character_images/casts/arkumacast1.png">
 	<img src="/images/character_images/casts/arkumacast2_1.png">
@@ -44,9 +44,9 @@ featured_image: '/images/character_images/casts/homura1_2.png'
 	<img src="/images/character_images/casts/fractalcast17.png">
 	<img src="/images/character_images/casts/fractalcast16.png">
 	<img src="/images/character_images/casts/fractalcast15.png">
-	<img src="/images/character_images/casts/fractalus27.png">
 	<img src="/images/character_images/casts/marinacast6.png">
 	<img src="/images/character_images/casts/marina7.png">
+	<img src="/images/character_images/casts/fractalus27.png">
 	<img src="/images/character_images/casts/fractalcast14_2.png">
 	<img src="/images/character_images/casts/homura2.png">
 	<img src="/images/character_images/casts/fractalcast7.png">
