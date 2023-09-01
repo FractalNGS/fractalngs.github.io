@@ -9,6 +9,17 @@ featured_image: '/images/character_images/ginko/ginko1.png'
 
 # Portraits
 
+<div class="gallery" data-columns="4">
+	<img src="/images/character_images/fractal/ginko1.png">
+</div>
+
+# Landscape
+
+<div class="gallery" data-columns="4">
+	<img src="/images/character_images/fractal/ginko2.png">
+	<img src="/images/character_images/fractal/ginko3.png">
+</div>
+
 <!---
 ![](/images/demo/landscape-01.jpg)
 

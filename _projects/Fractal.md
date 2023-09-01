@@ -1,11 +1,11 @@
 ---
 title: 'Fractal'
-subtitle: 'The Matriarch'
+subtitle: 'The Creator'
 date: 2023-08-31 00:00:00
 description: 
 featured_image: '/images/character_images/fractal/fractal125.png'
 ---
-> The lead and creator of the Fractal Family; always aiming to look 'cool'.
+> The leader and mastermind of the Fractal Family; always aiming to look cool.
 
 # Portraits
 
@@ -71,6 +71,7 @@ featured_image: '/images/character_images/fractal/fractal125.png'
 	<img src="/images/character_images/fractal/fractal_1.png">
 	<img src="/images/character_images/fractal/fractal6.png">
 </div>
+
 <!---
 ![](/images/demo/landscape-01.jpg)
 
