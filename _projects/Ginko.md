@@ -5,6 +5,8 @@ date: 2022-08-1 00:00:00
 description: 
 featured_image: '/images/character_images/ginko/ginko1.png'
 ---
+> A character created with inspiration off of Nessa from Pokemon.
+
 <!---
 ![](/images/demo/landscape-01.jpg)
 

@@ -5,6 +5,7 @@ date: 2022-03-15 00:00:00
 description: 
 featured_image: '/images/character_images/inkling/inkling3_4.png'
 ---
+> What happens when you combine 'cute' and 'cool' together? Inkling will show you.
 <!---
 ![](/images/demo/landscape-01.jpg)
 

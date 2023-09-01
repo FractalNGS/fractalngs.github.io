@@ -5,6 +5,7 @@ date: 2016-03-15 00:00:00
 description: 
 featured_image: '/images/character_images/cosplay/katori1.png'
 ---
+> They say mimicry is the greatest form of flattery.
 <!---
 ![](/images/demo/landscape-01.jpg)
 

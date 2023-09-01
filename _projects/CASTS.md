@@ -5,11 +5,11 @@ date: 2017-08-1 00:00:00
 description: 
 featured_image: '/images/character_images/homura/homura1_2.png'
 ---
-> Allow me to show you just how beautiful mecha can really be.
+> Allow me to show you just how beautiful CASTS can really be.
 
 ![](/images/character_images/casts/fractalcast21.png)
 
-## T1 CASTS
+# T1 CASTS
 
 <div class="gallery" data-columns="4">
 	<img src="/images/character_images/casts/leonidascast5.png">
@@ -32,7 +32,7 @@ featured_image: '/images/character_images/homura/homura1_2.png'
 	<img src="/images/character_images/casts/fractalcast0.png">
 </div>
 
-## T2 CASTS
+# T2 CASTS
 
 <div class="gallery" data-columns="4">
 	<img src="/images/character_images/casts/homura1_1.png">

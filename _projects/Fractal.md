@@ -1,10 +1,72 @@
 ---
 title: 'Fractal'
-subtitle: 'The Main Girl'
+subtitle: 'The Matriarch'
 date: 2023-08-31 00:00:00
 description: 
 featured_image: '/images/character_images/fractal/fractal125.png'
 ---
+> The lead and creator of the Fractal Family; always aiming to look 'cool'.
+
+# T2 Newman Portraits
+
+<div class="gallery" data-columns="4">
+	<img src="/images/character_images/fractal/fractal125.png">
+	<img src="/images/character_images/fractal/fractal124.jpg">
+	<img src="/images/character_images/fractal/fractal122.png">
+	<img src="/images/character_images/fractal/fractal116.png">
+	<img src="/images/character_images/fractal/fractal111.png">
+	<img src="/images/character_images/fractal/fractal103.png">
+	<img src="/images/character_images/fractal/fractal87.png">
+	<img src="/images/character_images/fractal/fractal78.png">
+</div>
+
+# T2 Newman Landscape
+
+<div class="gallery" data-columns="4">
+	<img src="/images/character_images/fractal/fractal110.png">
+	<img src="/images/character_images/fractal/fractal109.jpg">
+	<img src="/images/character_images/fractal/fractal107.png">
+	<img src="/images/character_images/fractal/fractal102.png">
+	<img src="/images/character_images/fractal/fractal99.png">
+	<img src="/images/character_images/fractal/fractal98.png">
+	<img src="/images/character_images/fractal/fractal94.png">
+	<img src="/images/character_images/fractal/fractal76_1.png">
+	<img src="/images/character_images/fractal/fractal75.png">
+	<img src="/images/character_images/fractal/fractal72.png">
+	<img src="/images/character_images/fractal/fractal68.png">
+	<img src="/images/character_images/fractal/fractal24.png">
+</div>
+
+# T2 CAST Outfits
+
+<div class="gallery" data-columns="4">
+	<img src="/images/character_images/casts/fractalcast25.png">
+	<img src="/images/character_images/casts/fractalcast24.png">
+	<img src="/images/character_images/casts/fractalcast22.png">
+	<img src="/images/character_images/casts/fractalcast18.png">
+	<img src="/images/character_images/casts/fractalcast17.png">
+	<img src="/images/character_images/casts/fractalcast16.png">
+	<img src="/images/character_images/casts/fractalcast15.png">
+	<img src="/images/character_images/casts/fractalcast7.png">
+	<img src="/images/character_images/casts/fractalcast2.png">
+</div>
+
+# T1 CAST Outfits
+
+<div class="gallery" data-columns="4">
+	<img src="/images/character_images/casts/fractalcast23.png">
+	<img src="/images/character_images/casts/fractalcast11.png">
+	<img src="/images/character_images/casts/fractalcast10.png">
+	<img src="/images/character_images/casts/fractalcast0.png">
+</div>
+
+# Humble Beginnings - The First Screenshots
+
+<div class="gallery" data-columns="4">
+	<img src="/images/character_images/fractal/fractal10.png">
+	<img src="/images/character_images/fractal/fractal_1.png">
+	<img src="/images/character_images/fractal/fractal6.png">
+</div>
 <!---
 ![](/images/demo/landscape-01.jpg)
 
