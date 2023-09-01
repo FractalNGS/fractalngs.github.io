@@ -6,6 +6,9 @@ description:
 featured_image: '/images/character_images/cosplay/katori1.png'
 ---
 > They say mimicry is the greatest form of flattery.
+
+# Portraits
+
 <!---
 ![](/images/demo/landscape-01.jpg)
 

@@ -7,7 +7,7 @@ featured_image: '/images/character_images/fractal/fractal125.png'
 ---
 > The lead and creator of the Fractal Family; always aiming to look 'cool'.
 
-# T2 Newman Portraits
+# Portraits
 
 <div class="gallery" data-columns="4">
 	<img src="/images/character_images/fractal/fractal125.png">
@@ -15,16 +15,16 @@ featured_image: '/images/character_images/fractal/fractal125.png'
 	<img src="/images/character_images/fractal/fractal122.png">
 	<img src="/images/character_images/fractal/fractal116.png">
 	<img src="/images/character_images/fractal/fractal111.png">
-	<img src="/images/character_images/fractal/fractal103.png">
 	<img src="/images/character_images/fractal/fractal87.png">
+	<img src="/images/character_images/fractal/fractal103.png">
 	<img src="/images/character_images/fractal/fractal78.png">
 </div>
 
-# T2 Newman Landscape
+# Landscape
 
 <div class="gallery" data-columns="4">
-	<img src="/images/character_images/fractal/fractal110.png">
-	<img src="/images/character_images/fractal/fractal109.jpg">
+	<img src="/images/character_images/fractal/fractal110_logo.png">
+	<img src="/images/character_images/fractal/fractal109.png">
 	<img src="/images/character_images/fractal/fractal107.png">
 	<img src="/images/character_images/fractal/fractal102.png">
 	<img src="/images/character_images/fractal/fractal99.png">
@@ -56,6 +56,7 @@ featured_image: '/images/character_images/fractal/fractal125.png'
 <div class="gallery" data-columns="4">
 	<img src="/images/character_images/casts/fractalcast23.png">
 	<img src="/images/character_images/casts/fractalcast11.png">
+	<img src="/images/character_images/casts/fractalcast21.png">
 	<img src="/images/character_images/casts/fractalcast10.png">
 	<img src="/images/character_images/casts/fractalcast0.png">
 </div>

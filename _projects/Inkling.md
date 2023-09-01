@@ -6,6 +6,9 @@ description:
 featured_image: '/images/character_images/inkling/inkling3_4.png'
 ---
 > What happens when you combine 'cute' and 'cool' together? Inkling will show you.
+
+# Portraits
+
 <!---
 ![](/images/demo/landscape-01.jpg)
 

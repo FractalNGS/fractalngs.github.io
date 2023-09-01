@@ -7,6 +7,8 @@ featured_image: '/images/character_images/ginko/ginko1.png'
 ---
 > A character created with inspiration off of Nessa from Pokemon.
 
+# Portraits
+
 <!---
 ![](/images/demo/landscape-01.jpg)
 
