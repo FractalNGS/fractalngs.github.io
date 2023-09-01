@@ -16,10 +16,12 @@ featured_image: '/images/character_images/homura/homura1_2.png'
 	<img src="/images/character_images/casts/fractalus25.png">
 	<img src="/images/character_images/casts/fractalcast23.png">
 	<img src="/images/character_images/casts/fractalcast11.png">
-	<img src="/images/character_images/casts/arkumacast3.png">
-	<img src="/images/character_images/casts/leonidascast4.png">
 	<img src="/images/character_images/casts/marinacast8.png">
 	<img src="/images/character_images/casts/marinacast3.png">
+	<img src="/images/character_images/casts/arkumacast3.png">
+	<img src="/images/character_images/casts/leonidascast4.png">
+	<img src="/images/character_images/homura/fracalcast19_1.png">
+	<img src="/images/character_images/homura/homura1_2.png">
 	<img src="/images/character_images/casts/mars18.png">
 	<img src="/images/character_images/casts/mars11.png">
 	<img src="/images/character_images/casts/fractalcast10.png">
@@ -27,7 +29,6 @@ featured_image: '/images/character_images/homura/homura1_2.png'
 	<img src="/images/character_images/casts/fractalus24.png">
 	<img src="/images/character_images/casts/arkumacast1.png">
 	<img src="/images/character_images/casts/arkumacast2_1.png">
-	<img src="/images/character_images/casts/homura1_2.png">
 	<img src="/images/character_images/casts/mars15.png">
 	<img src="/images/character_images/casts/fractalcast0.png">
 </div>
@@ -35,11 +36,11 @@ featured_image: '/images/character_images/homura/homura1_2.png'
 # T2 CASTS
 
 <div class="gallery" data-columns="4">
-	<img src="/images/character_images/casts/homura1_1.png">
 	<img src="/images/character_images/casts/fractalus26.png">
 	<img src="/images/character_images/casts/fractalus28.png">
 	<img src="/images/character_images/casts/fractalcast25.png">
 	<img src="/images/character_images/casts/fractalcast24.png">
+	<img src="/images/character_images/casts/homura1_1.png">
 	<img src="/images/character_images/casts/fractalcast22.png">
 	<img src="/images/character_images/casts/fractalcast18.png">
 	<img src="/images/character_images/casts/fractalcast17.png">
