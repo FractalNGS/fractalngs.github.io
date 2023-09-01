@@ -10,12 +10,12 @@ menu_settings:
   menu_items:
     - title: 'Characters'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Creative Space'
+      url: '/creativespace/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+#    - title: 'Contact'
+#      url: '/contact'
 
 footer_settings:
   footer_tagline: 
