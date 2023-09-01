@@ -14,9 +14,9 @@ featured_image: '/images/character_images/fractal/fractal125.png'
 	<img src="/images/character_images/fractal/fractal124.jpg">
 	<img src="/images/character_images/fractal/fractal122.png">
 	<img src="/images/character_images/fractal/fractal116.png">
+	<img src="/images/character_images/fractal/fractal87.png">
 	<img src="/images/character_images/fractal/fractal112.png">
 	<img src="/images/character_images/fractal/fractal111.png">
-	<img src="/images/character_images/fractal/fractal87.png">
 	<img src="/images/character_images/fractal/fractal103.png">
 	<img src="/images/character_images/fractal/fractal78.png">
 </div>

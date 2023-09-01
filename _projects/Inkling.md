@@ -10,13 +10,13 @@ featured_image: '/images/character_images/inkling/inkling3_4.png'
 # Portraits
 
 <div class="gallery" data-columns="4">
-	<img src="/images/character_images/fractal/inkling3_4.png">
+	<img src="/images/character_images/inkling/inkling3_4.png">
 </div>
 
 # Landscape
 
 <div class="gallery" data-columns="4">
-	<img src="/images/character_images/fractal/inkling2.png">
+	<img src="/images/character_images/inkling/inkling2.png">
 </div>
 
 <!---
