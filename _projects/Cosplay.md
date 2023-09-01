@@ -1,11 +1,11 @@
 ---
 title: 'Cosplay'
 subtitle: 'The Replicated'
-date: 2022-03-15 00:00:00
+date: 2016-03-15 00:00:00
 description: 
 featured_image: '/images/character_images/cosplay/katori1.png'
 ---
-
+<!---
 ![](/images/demo/landscape-01.jpg)
 
 ## Demo content
@@ -108,4 +108,4 @@ We've packed this theme with powerful features to show off your work.
 
 Why not put them to use on your new portfolio?
 
-<!--- <a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> --->
+<a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> --->
